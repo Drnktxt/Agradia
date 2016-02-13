@@ -1,0 +1,26 @@
+Bugs found in Agradia.net:
+
+
+Type		Location	NPC		Details						
+HP/Mana		Game			Upon leveling, both HP and mana do not fully regenerate to 100%						
+Parcel		Venore	Dove		Dove accepts the money, doesn't return parcel						
+Letter		Venore	Dove		Dove accepts the money, doesn't return letter						
+Label		Venore	Dove		Dove doesn't sell labels for parcels						
+Battle Hammer		Thais 	Sam		Sam doesn't buy battle hammers (“You don't even have that item.”)						
+Plate armor		Thais 	Hardek		Hardek doesn't buy plate armors.						
+Depot		Darashia			Darashia depot is connected to Venore.						
+Plate shield		Darashia	Azil		Azil doesn't recognise plate shields						
+Chain armor		Darashia	Azil		Azil doesn't recognise chain armors						
+Brass helmet		Darashia	Azil		Azil doesn't recognise brass helmets						
+Chain helmet		Darashia	Azil		Azil doesn't recognise chain helmets						
+Parcel		Darashia	Chemar		Chemar accepts money, doesn't return parcel						
+Letter		Darashia	Chemar		Chemar accepts money, doesn't return letter						
+Boat		Darashia	Petros		Petros doesn't react to 'Venore' upon trying to travel						
+Boat		Darashia	Petros		Petros doesn't react to 'Port Hope' upon trying to travel						
+Plate shield		Venore	Yanni		Yanni doesn't buy plate shields						
+Brass helmet		Venore	Yanni		Yanni doesn't buy brass helmets						
+Brass helmet		Venore	Aldo		Aldo doesn't buy brass helmets						
+Housetile		Venore			“You are not invited”		East of Position: x=32932 y=32096 z=6				
+Housetile		Venore			“You are not invited”		South of Position: x=32949 y=32096 z=6				
+Depot		Thais 			Thais depot is connected to both Venore and Darashia						
+Promotion		Carlin	Queen Eloise		Upon saying yes to promotion, no action is taken, no promotion granted, no money taken.						
